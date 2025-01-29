@@ -3,4 +3,5 @@ A web application where final student can upload their project and supervisor ca
 
 # Landing Page still Ongoing
 
-![Container 9(1)](https://github.com/user-attachments/assets/784efac7-acb4-4f28-bde2-8153eac80259)
+
+![Container 9(1)](https://github.com/user-attachments/assets/f393305f-08c9-4d77-8686-5081f68ac748)
